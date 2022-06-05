@@ -1,3 +1,3 @@
 # MyProjects
-All Projects/n
+All Projects,
 This file contains all of my personal and group projects/assignments.
